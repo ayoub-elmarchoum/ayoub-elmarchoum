@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AYOUB EL MARCHOU</h1>
+<h1 align="center">Hi 👋, I'm AYOUB EL MARCHOUM</h1>
 <h3 align="center">Data science & Cloud computing engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoub-elmarchoum&label=Profile%20views&color=0e75b6&style=flat" alt="ayoub-elmarchoum" /> </p>
